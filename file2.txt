@@ -1,0 +1,3 @@
+i
+This is the 2nd file in git project
+This way i am learning simple and basic GIT commands using demo project in local repository.
